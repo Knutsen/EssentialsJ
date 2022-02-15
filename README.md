@@ -2,7 +2,7 @@
 
 This is my version of Essentials.
 
-It includes a rank system, custom enchantments, regular essential commands, a admin gui and more!
+It includes a ranking system, custom enchantments, regular essential commands, a admin gui and more!
 
 Comming soon: NPC to obtain the beforementioned custom enchantments
 
