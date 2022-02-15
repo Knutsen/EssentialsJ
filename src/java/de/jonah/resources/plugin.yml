@@ -1,0 +1,50 @@
+name: EssentialsJ
+version: ${project.version}
+main: de.jonah.main.Main
+api-version: 1.18
+authors: [ jonah ]
+commands:
+  setspawn:
+    description: Sets the spawn
+    aliases: ['setspawn']
+  spawn:
+    description: Teleports you to the spawn
+    aliases: ['s']
+  settings:
+    description: Opens the Settings GUI
+  add:
+    description: Adds an enchantment to your tool!
+    aliases: ['hex']
+  fly:
+    description: Sets a player flying!
+    aliases: ['f']
+  creative:
+    description: Sets the player to creative, plus tools!
+    aliases: ['cm']
+  survival:
+    description: Sets the player to survival mode!
+    aliases: ['sm']
+  spectator:
+    description: Sets the player to a spectator mode!
+    aliases: ['spec']
+  heal:
+    description: Heals a player!
+  feed:
+    description: Feeds a player!
+    aliases: ['food']
+  bacta:
+    description: Feeds and heals a player!
+  day:
+    description: Changes time of day to day!
+    aliases: ['d']
+  night:
+    description: Changes time of day to night!
+    aliases: ['n']
+  gui:
+    description: Opens the GUI menu!
+    aliases: ['menu']
+  rank:
+    description: Sets the rank!
+    aliases: ['unrank']
+  test:
+    description: Sends you the DeBug shit!
